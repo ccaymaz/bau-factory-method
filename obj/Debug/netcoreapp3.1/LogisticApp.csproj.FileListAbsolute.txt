@@ -1,0 +1,13 @@
+C:\Users\cagri\Desktop\LogisticApp\LogisticAoo\bin\Debug\netcoreapp3.1\LogisticApp.exe
+C:\Users\cagri\Desktop\LogisticApp\LogisticAoo\bin\Debug\netcoreapp3.1\LogisticApp.deps.json
+C:\Users\cagri\Desktop\LogisticApp\LogisticAoo\bin\Debug\netcoreapp3.1\LogisticApp.runtimeconfig.json
+C:\Users\cagri\Desktop\LogisticApp\LogisticAoo\bin\Debug\netcoreapp3.1\LogisticApp.runtimeconfig.dev.json
+C:\Users\cagri\Desktop\LogisticApp\LogisticAoo\bin\Debug\netcoreapp3.1\LogisticApp.dll
+C:\Users\cagri\Desktop\LogisticApp\LogisticAoo\bin\Debug\netcoreapp3.1\LogisticApp.pdb
+C:\Users\cagri\Desktop\LogisticApp\LogisticAoo\obj\Debug\netcoreapp3.1\LogisticApp.AssemblyInfoInputs.cache
+C:\Users\cagri\Desktop\LogisticApp\LogisticAoo\obj\Debug\netcoreapp3.1\LogisticApp.AssemblyInfo.cs
+C:\Users\cagri\Desktop\LogisticApp\LogisticAoo\obj\Debug\netcoreapp3.1\LogisticApp.csproj.CoreCompileInputs.cache
+C:\Users\cagri\Desktop\LogisticApp\LogisticAoo\obj\Debug\netcoreapp3.1\LogisticApp.dll
+C:\Users\cagri\Desktop\LogisticApp\LogisticAoo\obj\Debug\netcoreapp3.1\LogisticApp.pdb
+C:\Users\cagri\Desktop\LogisticApp\LogisticAoo\obj\Debug\netcoreapp3.1\LogisticApp.genruntimeconfig.cache
+C:\Users\cagri\Desktop\LogisticApp\LogisticAoo\obj\Debug\netcoreapp3.1\LogisticApp.csprojAssemblyReference.cache
